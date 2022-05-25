@@ -1,0 +1,7 @@
+project: pdf-rs
+target: parse
+
+tests:
+  - file://files/
+cmds:
+  - cmd: /parse
